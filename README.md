@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarshanJSingh
-- 👀 I’m interested in Freelance work
-- 🌱 I’m currently learning Data Structure,Coding
-- 💞️ I’m looking to collaborate on with Learner..
+- 👀 I’m interested in Flutter Projects
+- 🌱 I’m currently learning Data Structure,Flutter 
+- 💞️ I’m looking to collaborate with Full stack Developer
 - 📫 How to reach me Whatsapp @7988356892
 
 <!---
